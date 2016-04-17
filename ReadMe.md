@@ -3,7 +3,9 @@
 This repo consists of 3 files:
 
 readme.md - a description of all the files
+
 codebook.md - a description of the output dataset produced in this assignment
+
 run_analysis.R  - the script that produces the output dataset
 
 The script works as follows:
